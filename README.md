@@ -30,5 +30,5 @@ Jeder Kursordner enthält ein eigenes README mit spezifischen Hinweisen.
 Repository klonen:
 
 ```bash
-git clone https://github.com/<dein-nutzername>/udemy-python-courses.git
+git clone https://github.com/fabs133/Udemy_Python.git
 cd udemy-python-courses/beginners
