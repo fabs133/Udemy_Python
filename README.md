@@ -31,4 +31,4 @@ Repository klonen:
 
 ```bash
 git clone https://github.com/fabs133/Udemy_Python.git
-cd udemy-python-courses/beginners
+cd Udemy_Python/beginners
