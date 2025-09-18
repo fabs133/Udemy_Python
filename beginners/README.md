@@ -3,7 +3,6 @@
 
 ## 📄 `beginners/README.md` (Kurs 1)
 
-```markdown
 # Python für Anfänger – Kursmaterial
 
 Dies ist der Beispielcode zum Udemy-Kurs **„Python für Anfänger“**.  
