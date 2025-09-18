@@ -26,7 +26,7 @@ print(f"Hallo {first} {last}")
 name = "Fabio"
 print(name[0])  # "F"
 ```
-# ⚠️ Kein eigener "Char"-Typ – auch "F" ist ein String.
+### ⚠️ Kein eigener "Char"-Typ – auch "F" ist ein String.
 
 ## ⚠️ Fehlerquellen
 - IndexError: wenn man auf name[100] zugreift, das es nicht gibt
